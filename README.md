@@ -41,7 +41,7 @@ The chat workflow is as follows:
 * Both clients reconstruct a symmetric key using the Diffie-Hellman key exchange.
 * Any client can send and receive encrypted messages to each other.
 
-
+<img src="https://github.com/grimloc-aduque/Cybersecurity-Man-in-the-Middle-Attack/blob/main/images/chatGUI.png" style="width:200px;"/>
 
 
 ## Man in the Middle Application
@@ -52,7 +52,7 @@ The workflow is as follows:
 * All messages transmitted between clients go through the Man in the Middle.
 * Messages can be modified and retransmitted.
 
-
+<img src="https://github.com/grimloc-aduque/Cybersecurity-Man-in-the-Middle-Attack/blob/main/images/man_in_the_middle.png" style="width:200px;"/>
 
 
 ## DNS attack
